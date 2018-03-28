@@ -1,0 +1,225 @@
+body{background:linear-gradient(to bottom right,white,#bcbdc4);
+	height:4000px;}
+.headerx{
+	position:fixed;
+	width:100%;
+	height:80px;
+	top:0;
+	left:0;
+	color:white;
+	z-index:7;
+	font-family:verdana;
+	-webkit-box-shadow:0 3px 8px rgba (0, 0, 0, .25);
+}
+
+.header{
+	position:absolute;
+	width:100%;
+	height:80px;
+	background:#142170;
+	top:0;
+	left:0;
+	color:white;
+	z-index:7;
+	font-family:verdana;
+}
+
+#formBtn{
+	    left: 401px;
+	    top: 18px;
+	    height: 40px;
+	    width: 180px;
+	    box-sizing: border-box;
+}
+
+#img1{left:100px;
+	height:50px;
+	width:110px;
+	top:25px;
+	}
+	
+	.text{
+		width:930px;
+		//height:300px;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top:21px;
+		font-size:40px;
+
+	}
+	
+
+	
+	
+	.bodyx{
+		position:absolute;
+		left:0;
+		top:100px;
+		width:100%;
+		height:645px;
+	
+	
+	}
+	#intro1{top:40px;
+	left:100px;
+	font-family:verdana;
+	font-size:30px;
+	color:black;
+	width:550px;
+	height:75px;}
+	
+	#intro2{top:35px;
+	left:700px;
+	font-family:verdana;
+	font-size:50px;
+	color:black;
+	width:500px;
+	height:60px;}
+	
+	#img2{top:30px;
+	left:100px;
+	height:25px;
+	width:550px;}
+	
+	#intro3{top:100px;
+	left:700px;
+	font-family:verdana;
+	font-size:20px;
+	color:black;
+	width:300px;
+	margin-top:12px;
+	height:50px;}
+		
+	#form3{top:150px;
+	left:700px;
+	font-family:verdana;
+	font-size:20px;
+	color:black;
+	width:450px;
+	height:495px;
+
+
+	}
+	
+	#namebox{width:200px;
+	height:40px;
+	border-radius:10px/10px;
+	background:white;
+	padding:10px;
+	font-size:20px;
+	margin-top:10px;
+	}
+	#mailbox{width:410px;
+	height:40px;
+	border-radius:10px/10px;
+	background:white;
+	padding:10px;
+	font-size:20px;
+	margin-top:19px;
+	margin-bottom:12px;
+	}
+
+	
+.button2{width:200px;
+height:50px;
+left:700px;
+top:670px;
+background:green;
+position:absolute;
+color:white;
+font-size:20px;
+border-radius:15px/15px;
+cursor:pointer;
+outline:none;}
+.body1{
+	position:absolute;
+	left:0;
+	top:750px;
+	width:100%;
+	height:80px;
+	background:white;
+}
+#conclu1{width:930px;
+top:5px;
+left:350px;
+color:#bcbdc4;
+height:60px;
+font-size:18px;
+margin-left:10px;
+padding:10px;
+padding-right:10px;
+
+}
+
+#footer1
+{
+ width:1000px;
+ margin:0px auto;
+ padding:0px;
+ border-bottom:1px solid #E6E6E6;
+ height:30px;
+ line-height:30px;
+ font-size:20px;
+ color:#848484;
+ margin-top:700px;
+ margin-left:350px;
+}
+
+#form1{left:700px;
+	top:20px;
+	height:60px;
+	width:180px;
+	
+
+  
+    
+	
+	}
+
+#nameInp{
+    width: 190px;
+    height: 33px;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#passInp{
+    width: 190px;
+    height: 33px;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#form2{left:200px;
+	top:0px;
+	height:60px;
+	width:180px;
+	box-sizing: border-box;
+	}
+
+.submit1{    
+	left: 1100px;
+    top: 48px;
+    background: white;
+    color: #142170;
+    z-index: 30;
+    border-radius: 5px;
+    height: 33px;
+    font-size: 16px;
+    width: 73px;
+    cursor: pointer;
+	}
+	
+#terms
+{
+ color:#424242;
+ font-size:9px;
+ margin-top:14px;
+}
+#wrapper #div2 #terms a
+{
+ display:inline;
+ margin:0px;
+}
